@@ -1,4 +1,4 @@
-appMoviles
+appsMoviles
 ==========
 
 Probando las aplicaciones
